@@ -31,7 +31,7 @@ on:
       fullscreen:
         description: '[Fullscreen, Optional]'
         required: false
-        default: false  
+        default: true  
       hide_title_bar:
         description: '[Hide TitleBar, Optional, MacOS only]'
         required: false
